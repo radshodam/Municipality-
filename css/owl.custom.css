@@ -1,0 +1,16 @@
+.owl-carousel .active span {
+  background: #2196f3 !important;
+}
+
+.owl-prev {
+  position: absolute;
+  right: 0 !important;
+  top: 50%;
+}
+
+.owl-next {
+  position: absolute;
+  left: 0 !important;
+  top: 50%;
+}
+/*# sourceMappingURL=owl.custom.css.map */
